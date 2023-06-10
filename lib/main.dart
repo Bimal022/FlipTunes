@@ -10,7 +10,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Toy Phone"),
+          title: Text("Flip Tunes!"),
           backgroundColor: Colors.blueGrey,
           actions: <Widget>[
             PopupMenuButton<int>(
@@ -35,7 +35,7 @@ void handleClick(int item) {
   switch (item) {
     case 0:
       launchUrl(Uri.parse(
-          'https://github.com/eopeter/flutter_dialpad/blob/master/lib/flutter_dialpad.dart')); // Replace with your "About" URL
+          'https://www.instagram.com/kumar._.bimal/')); // Replace with your "About" URL
       break;
     case 1:
       shareApp(); // Call the shareApp function for sharing functionality
@@ -44,8 +44,9 @@ void handleClick(int item) {
 }
 
 void shareApp() {
-  Share.share('check out my website https://example.com',
-      subject: 'Look what I made!');
+  Share.share(
+      'Check out this cool FlipTunes app  https://drive.google.com/drive/folders/1aqPV1Jax18H8BkZ-uXDk8ZmUJZbwAvoF?usp=sharing',
+      subject: 'Hehe download krr lena😁');
 }
 
 class ToyApp extends StatelessWidget {
