@@ -25,8 +25,8 @@ The Flip Tunes app is a delightful and nostalgic experience that brings back the
 
 To get started with the Flip Tunes app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Bimal022/Flip-Tunes-`
-2. Change to the project directory: `cd flip-tunes`
+1. Clone the repository: `git clone https://github.com/Bimal022/FlipTunes`
+2. Change to the project directory: `cd fliptunes`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
@@ -38,7 +38,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, f
 
 ## Contact
 
-For any inquiries or feedback, please feel free to reach out to me at kumar.bimal@example.com. I would love to hear from you!
+For any inquiries or feedback, please feel free to reach out to me at https://www.instagram.com/kumar._.bimal/. I would love to hear from you!
 
 ---
 

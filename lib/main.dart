@@ -45,7 +45,7 @@ void handleClick(int item) {
 
 void shareApp() {
   Share.share(
-      'Check out this cool FlipTunes app  https://drive.google.com/drive/folders/1aqPV1Jax18H8BkZ-uXDk8ZmUJZbwAvoF?usp=sharing',
+      'Check out this cool FlipTunes app  https://drive.google.com/drive/folders/1aqPV1Jax18H8BkZ-uXDk8ZmUJZbwAvoF',
       subject: 'Hehe download krr lena😁');
 }
 
